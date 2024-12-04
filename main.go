@@ -7,9 +7,10 @@ import (
 	"io"
 	"log"
 	"os"
-	"rsyncbrute/rsync"
 	"sync"
 	"time"
+
+	"github.com/nonsleepr/rsyncbrute/rsync"
 )
 
 type ProgressTracker struct {

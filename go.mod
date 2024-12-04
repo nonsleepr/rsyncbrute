@@ -1,4 +1,4 @@
-module rsyncbrute
+module github.com/nonsleepr/rsyncbrute
 
 go 1.23.3
 

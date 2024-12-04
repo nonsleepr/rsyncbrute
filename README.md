@@ -13,7 +13,7 @@ The rsync protocol description can be found here:
 ## Installation
 
 ```bash
-go install rsyncbrute
+go install github.com/nonsleepr/rsyncbrute@latest
 ```
 
 ## Usage
